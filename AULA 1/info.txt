@@ -1,0 +1,14 @@
+mkdir "AULA 1"
+type nul > "AULA 1/info.txt"
+
+mkdir "AULA 2"
+type nul > "AULA 2/info.txt"
+
+mkdir "AULA 3"
+type nul > "AULA 3/info.txt"
+
+mkdir "AULA 4"
+type nul > "AULA 4/info.txt"
+
+mkdir "AULA 5"
+type nul > "AULA 5/info.txt"
